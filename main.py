@@ -24,7 +24,7 @@ def btn_click():
         .grid(row=4, column=1)
 
 root['bg'] = '#1E1E1E' # цвет фона
-root.title('Название программы') # название программы
+root.title('Координаты мыши') # название программы
 root.wm_attributes('-alpha', 0.9) # прозрачность окна
 root.attributes("-topmost", True) # поверх всех окон
 root.geometry('320x220') # размеры окна
