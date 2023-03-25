@@ -1,2 +1,7 @@
-# mousecoords
-mouse coordinates and pixel color like colormania
+## Начало работы
+Для работы Вам нужно скачать файл координаты.exe
+
+## Запустите файл
+Нажмите "Click!", наведитесь мышкой на нужное место и нажмите "Esc". Координаты автоматически скопированы!
+<img align="center" src="https://i.yapx.ru/Vzfkn.png" alt="Регистрация">
+
